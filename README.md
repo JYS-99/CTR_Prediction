@@ -1,1 +1,1 @@
-# CTR_Prediction
+# A Sample Code for CTR Prediction Project
